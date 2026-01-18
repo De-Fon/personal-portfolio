@@ -1,0 +1,44 @@
+body{
+    
+    font-family: Arial, sans-serif;
+    background-image: url("background 2.webp");
+}
+
+h1{
+  text-shadow: 5px 5px 5px rgb(32, 141, 137), -5px -5px 10px rgb(61, 9, 9);
+    color: rgb(138, 129, 11);
+}
+img{
+    width: 200px;
+    height: 250px;
+    border-radius: 20px;
+}
+
+#div1{
+    font-size: 20px;
+    padding-left: 10px;
+    float: right;
+    border-bottom: 3px dashed rgb(121, 227, 22);
+    border-top: 3px dashed rgb(43, 52, 47);
+    border-left: 3px solid orangered;
+    border-right: 3px double brown;
+
+    height: 200px;
+    width: 1000px;
+   text-align: center;
+    margin-right: 600px;
+    margin-top: 20px;
+
+}
+
+div{
+    font-size: 17px;
+    font-family: serif;
+    color: rgba(6, 196, 91, 0.542);
+}
+section{
+    font-size: large;
+    color: aqua;
+    }
+
+
